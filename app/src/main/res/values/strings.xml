@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meu_Primeiro_App_DIO</string>
+    <string name="apresentacao">Este é meu primeiro APP de desafio da DIO.</string>
+    <string name="ingles">This is my first DIO challenge APP..</string>
+    <string name="espanhol">Esta es mi primera aplicación de desafío DIO.</string>
+    <string name="meuNome">Meu nome e Waldir. Tenho 23 anos e sou um estudante da DIO.</string>
+</resources>
